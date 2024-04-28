@@ -24,6 +24,7 @@ const config: Config = {
           95: "#F1F1F3",
           97: "#F7F7F8",
           99: "#FCFCFD",
+          absolute: "#FFFFFF",
         },
         gray: {
           8: "#141414",
